@@ -1,0 +1,111 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "3f287bc7-0882-452f-a06b-4386b49886b7")
+	(paper "A4")
+	(title_block
+		(title "Inductive Position Encoder")
+		(date "2026-05-18")
+		(rev "001")
+	)
+	(lib_symbols)
+	(sheet
+		(at 30.48 95.25)
+		(size 31.75 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "d348c015-0b3c-4916-92f3-8a0a0f5cf133")
+		(property "Sheetname" "STM32 Microcontroller"
+			(at 30.48 94.5384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "micro.kicad_sch"
+			(at 30.48 111.0746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "00001"
+				(path "/3f287bc7-0882-452f-a06b-4386b49886b7"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 29.21 60.96)
+		(size 30.48 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "fb99d951-101c-4721-9f91-602b7b09d42e")
+		(property "Sheetname" "Serial Communication"
+			(at 29.21 60.2484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "serial.kicad_sch"
+			(at 29.21 84.4046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "00001"
+				(path "/3f287bc7-0882-452f-a06b-4386b49886b7"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
