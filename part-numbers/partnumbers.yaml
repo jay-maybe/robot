@@ -1,0 +1,6 @@
+#2 spaces!
+10001:
+  title: "Actuator Control Board"
+  description: "PCB to control actuator."
+  revisions:
+  - 001
