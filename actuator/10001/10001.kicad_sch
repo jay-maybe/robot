@@ -1,0 +1,204 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "74a9143e-df50-4944-bff2-a4302f33bdee")
+	(paper "A4")
+	(title_block
+		(title "Actuator Control Board")
+		(date "2026-07-22")
+		(rev "001")
+		(company "Jay Maybe")
+	)
+	(lib_symbols)
+	(sheet
+		(at 50.8 140.97)
+		(size 45.72 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "45bb560c-1ac0-46a5-91c2-4b646977388c")
+		(property "Sheetname" "Motor Driver"
+			(at 50.8 140.2584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "motordriver.kicad_sch"
+			(at 50.8 173.3046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "10001"
+				(path "/74a9143e-df50-4944-bff2-a4302f33bdee"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 151.13 92.71)
+		(size 41.91 39.37)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "58f0d544-aaa2-42db-8316-207d7dca1f4a")
+		(property "Sheetname" "Encoder"
+			(at 151.13 91.9984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "encoder.kicad_sch"
+			(at 151.13 132.6646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "10001"
+				(path "/74a9143e-df50-4944-bff2-a4302f33bdee"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 143.51 59.69)
+		(size 27.94 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "a21e9034-7056-4acc-adce-37998b3b59e7")
+		(property "Sheetname" "LDO"
+			(at 143.51 58.9784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ldo.kicad_sch"
+			(at 143.51 74.2446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "10001"
+				(path "/74a9143e-df50-4944-bff2-a4302f33bdee"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 67.31 66.04)
+		(size 36.83 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "f69c97e4-205d-46f6-81dc-7b6d7468e350")
+		(property "Sheetname" "Microcontroller"
+			(at 67.31 65.3284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "micro.kicad_sch"
+			(at 67.31 104.7246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "10001"
+				(path "/74a9143e-df50-4944-bff2-a4302f33bdee"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

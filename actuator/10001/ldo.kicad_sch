@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "cf40faff-2084-43e3-a2f2-6ec169e24970")
+	(paper "A4")
+	(title_block
+		(title "Actuator Control Board")
+		(date "2026-07-22")
+		(rev "001")
+		(company "Jay Maybe")
+	)
+	(lib_symbols)
+)
