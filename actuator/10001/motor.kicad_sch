@@ -1,0 +1,24 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "f107dd5b-8e15-406a-a75f-dc6fcd4d6336")
+	(paper "A4")
+	(title_block
+		(title "Actuator Control Board")
+		(date "2026-07-22")
+		(rev "001")
+		(company "Jay Maybe")
+	)
+	(lib_symbols)
+	(text "DRV8701"
+		(exclude_from_sim no)
+		(at 113.03 97.282 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a76e864c-f715-4aa6-9665-274f1046711e")
+	)
+)

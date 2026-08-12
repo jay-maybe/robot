@@ -285,7 +285,14 @@
       "version": 5
     },
     "net_colors": null,
-    "netclass_assignments": null,
+    "netclass_assignments": {
+      "Net-(U2-PF0)": [
+        "SE50"
+      ],
+      "Net-(Y1-OUT)": [
+        "SE50"
+      ]
+    },
     "netclass_patterns": []
   },
   "pcbnew": {
@@ -429,7 +436,7 @@
         "uuid": "74a9143e-df50-4944-bff2-a4302f33bdee"
       }
     ],
-    "used_designators": "U1-3,L1,#PWR1-10,Y1,R1-2,J1,PROBE2",
+    "used_designators": "U1-4,L1-2,#PWR1-32,Y1,R1-15,J1,PROBE2,C1-20,Q1-2,TP1,D1",
     "variants": []
   },
   "sheets": [
@@ -452,6 +459,10 @@
     [
       "a21e9034-7056-4acc-adce-37998b3b59e7",
       "LDO"
+    ],
+    [
+      "0781bd49-48c1-4a16-9cf5-1e2eb0580a26",
+      "Buck Converter"
     ]
   ],
   "text_variables": {},

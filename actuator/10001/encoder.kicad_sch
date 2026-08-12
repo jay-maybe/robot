@@ -8,7 +8,7 @@
 		(title "Actuator Control Board")
 		(date "2026-07-22")
 		(rev "001")
-		(company "Jay Maybe")
+		(company "James May")
 	)
 	(lib_symbols
 		(symbol "Device:L"
@@ -1264,10 +1264,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "66148758-3126-4e84-8d30-2dec7370e6f1")
 		(property "Reference" "U1"
-			(at 144.3833 71.12 0)
+			(at 146.05 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1277,8 +1276,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" ""
-			(at 142.24 73.66 0)
+		(property "Value" "LDC0851"
+			(at 147.32 72.39 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
