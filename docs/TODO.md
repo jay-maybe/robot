@@ -1,2 +1,0 @@
-- create pcb encoder footprint
-- create pcb encoder test board

@@ -35,4 +35,4 @@ $$
 $$
 L=\frac{0.1275^2 14^2}{8(0.1275)+11(0.168)} \quad (\mathrm{\mu H}) = 1.11\mathrm{\mu H}
 $$
-FAIL
+No good.

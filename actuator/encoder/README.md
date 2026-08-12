@@ -3,7 +3,7 @@
 1. Install VS Code
 2. Install CMake
     - https://cmake.org/download/
-3. Install STM32CubeMX (only if you intend to modify this code)
+3. Install STM32CubeMX
 
 
 ### References
