@@ -1,4 +1,4 @@
 (sym_lib_table
 	(version 7)
-	(lib (name "ecad-library") (type "KiCad") (uri "C:/Users/jmayv/robot/ecad-library/ecad-library.kicad_sym") (options "") (descr ""))
+	(lib (name "custom") (type "KiCad") (uri "/home/maybe/robot/ecad-library") (options "") (descr ""))
 )

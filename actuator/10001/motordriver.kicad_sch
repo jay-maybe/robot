@@ -483,16 +483,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "For Rev 001 this is just digital output pins from micro.\nIntention is to drive an external H bridge."
-		(exclude_from_sim no)
-		(at 61.468 90.424 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "263a3227-42f1-4bd9-a3d6-5c72c89ba9f4")
-	)
 	(wire
 		(pts
 			(xy 114.3 91.44) (xy 118.11 91.44)
